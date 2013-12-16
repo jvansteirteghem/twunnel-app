@@ -26,7 +26,7 @@ configuration = \
     "PROXY_SERVERS":
     [
         # {
-            # "TYPE": "HTTP",
+            # "TYPE": "HTTPS",
             # "ADDRESS": "",
             # "PORT": 0,
             # "ACCOUNT":
@@ -42,6 +42,10 @@ configuration = \
     ],
     "LOCAL_PROXY_SERVER":
     {
+        # "TYPE": "HTTPS",
+        # "ADDRESS": "",
+        # "PORT": 0
+        
         # "TYPE": "SOCKS5",
         # "ADDRESS": "",
         # "PORT": 0
