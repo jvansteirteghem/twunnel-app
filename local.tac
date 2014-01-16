@@ -37,7 +37,12 @@ configuration = \
             
             # "TYPE": "SOCKS5",
             # "ADDRESS": "",
-            # "PORT": 0
+            # "PORT": 0,
+            # "ACCOUNT":
+            # {
+            #     "NAME": "",
+            #     "PASSWORD": ""
+            # }
         # }
     ],
     "LOCAL_PROXY_SERVER":
@@ -48,7 +53,14 @@ configuration = \
         
         # "TYPE": "SOCKS5",
         # "ADDRESS": "",
-        # "PORT": 0
+        # "PORT": 0,
+        # "ACCOUNTS":
+        # [
+        #     {
+        #         "NAME": "",
+        #         "PASSWORD": ""
+        #     }
+        # ]
     },
     "REMOTE_PROXY_SERVERS":
     [
