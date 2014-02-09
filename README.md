@@ -5,8 +5,8 @@
 ```
 git clone https://github.com/jvansteirteghem/twunnel-app.git
 cd twunnel-app
-# configure <LOCAL/REMOTE.TAC-FILE>
 pip install -r requirements.txt
+# configure <LOCAL/REMOTE.TAC-FILE>
 ```
 
 ## start
