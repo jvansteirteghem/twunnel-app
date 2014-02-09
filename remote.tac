@@ -7,7 +7,7 @@ configuration = \
 {
     "LOGGER":
     {
-        "LEVEL": 3
+        "LEVEL": 2
     },
     "DNS_RESOLVER":
     {
