@@ -35,6 +35,14 @@ configuration = \
             #     "PASSWORD": ""
             # }
             
+            # "TYPE": "SOCKS4",
+            # "ADDRESS": "",
+            # "PORT": 0,
+            # "ACCOUNT":
+            # {
+            #     "NAME": ""
+            # }
+            
             # "TYPE": "SOCKS5",
             # "ADDRESS": "",
             # "PORT": 0,
@@ -48,6 +56,10 @@ configuration = \
     "LOCAL_PROXY_SERVER":
     {
         # "TYPE": "HTTPS",
+        # "ADDRESS": "",
+        # "PORT": 0
+        
+        # "TYPE": "SOCKS4",
         # "ADDRESS": "",
         # "PORT": 0
         
